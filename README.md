@@ -1,6 +1,6 @@
 ## IntelliJ IDEA Tricks to Boost Productivity for Java Devs
 
-#### Section 2: Text Navigation
+### Section 2: Text Navigation
 
 navigate between texts
 **Ctrl + arrow**
@@ -12,6 +12,7 @@ Scroll **Page up / down**
 
 file end **Ctrl + Home / end**
 
+### Section 3: Editing and Working With Code
 #### 4. Camel Hump
 First **char (Caps)** of a class to auto complete
 
@@ -45,3 +46,37 @@ Delete line **Ctrl + Y**
 **Ctrl + +**  to expand current code block
 
 **Ctrl + -**  to fold current code block
+
+### Section 4: Code Navigation
+
+#### 10. Navigating to Class by Partial Match, Camel Humps and Wildcard Search
+
+**Ctrl + N**  to Navigate to class
+
+**Ctrl + Alt + < / >**  to Navigate back
+
+#### 11. Navigating to Symbols
+**Shift + Ctrl + Alt + N**  to Navigate to class
+
+**Ctrl + Alt + < / >**  to Navigate back
+
+#### 12. Navigating to File
+
+**Shift + Ctrl + N**  to Navigate to file
+
+for folder name with **slash** in the end ex :- jasper/
+
+#### 13. Navigating to Action
+
+**Shift + ctrl + A**  to Navigate to desired action
+
+#### 14. Search Everywhere
+**Double Shift**  to Search Everywhere
+
+**Tab**  to move between sections in search everywhere window
+
+
+#### 15. Tabs, the No. 1 Productivity Killer
+**ctrl + E**  to navigate to recent files
+
+**Shift + ctrl + E**  to navigate to recent edit files
